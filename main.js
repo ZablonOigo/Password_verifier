@@ -11,4 +11,4 @@ document.addEventListener('submit',()=>{
     }
     document.querySelector('#pass1').value='';
     document.querySelector('#pass2').value='';
-})
+});
